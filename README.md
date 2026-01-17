@@ -1,2 +1,2 @@
 # DSA-practice_
-author - Piyush Rastogi
+author - Piyush Rastogi (Software Engineer)
